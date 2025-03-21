@@ -25,11 +25,11 @@ To run the portfolio website locally:
 
 1. **Clone the repository:**
    ```sh
-   https://abhikiing.github.io/GrowthLink-Project/
+   https://github.com/abhikiing/GrowthLink-Project.git
    ```
 2. **Navigate to the project directory:**
    ```sh
-   cd portfolio-website
+   cd GrowthLink-Project
    ```
 3. **Open `index.htm` in your browser**
 
