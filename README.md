@@ -25,7 +25,7 @@ To run the portfolio website locally:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/abhishek/portfolio-website.git
+   https://abhikiing.github.io/GrowthLink-Project/
    ```
 2. **Navigate to the project directory:**
    ```sh
@@ -34,7 +34,7 @@ To run the portfolio website locally:
 3. **Open `index.htm` in your browser**
 
 ## 🌐 Live Demo
-🔗 **[Click here to view live portfolio](https://yourportfolio.live)**  <!-- Replace with your actual deployed link -->
+🔗 **[Click here to view live portfolio](https://abhikiing.github.io/GrowthLink-Project/)**
 
 ## 📧 Contact Me
 If you have any queries, feel free to reach out:
